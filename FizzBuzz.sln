@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.Divisibility", "FizzBuzz.Divisibility\FizzBuzz.Divisibility.csproj", "{36DBEF6C-9A0D-4A87-A2FF-E991FF3C168F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.DivisibilityConsole", "FizzBuzz.DivisibilityConsole\FizzBuzz.DivisibilityConsole.csproj", "{10C7995C-F9C0-4E37-8362-370AFDA601C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.DivisibilityTest", "FizzBuzz.DivisibilityTest\FizzBuzz.DivisibilityTest.csproj", "{CAA76FB8-BD3D-4FAB-B670-FBE9740E653E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36DBEF6C-9A0D-4A87-A2FF-E991FF3C168F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DBEF6C-9A0D-4A87-A2FF-E991FF3C168F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DBEF6C-9A0D-4A87-A2FF-E991FF3C168F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DBEF6C-9A0D-4A87-A2FF-E991FF3C168F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C7995C-F9C0-4E37-8362-370AFDA601C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C7995C-F9C0-4E37-8362-370AFDA601C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C7995C-F9C0-4E37-8362-370AFDA601C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C7995C-F9C0-4E37-8362-370AFDA601C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA76FB8-BD3D-4FAB-B670-FBE9740E653E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA76FB8-BD3D-4FAB-B670-FBE9740E653E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA76FB8-BD3D-4FAB-B670-FBE9740E653E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA76FB8-BD3D-4FAB-B670-FBE9740E653E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
